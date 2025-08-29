@@ -1,0 +1,5 @@
+google-generativeai
+python-decouple
+python-dotenv>=1.0.1
+pydantic>=2.7.0
+agents>=0.1.0   # same SDK you’re importing from in your snippet
